@@ -1,0 +1,16 @@
+,region,country,port,sea freight cost,total_sea_freight_costs,road transport cost per km,total_road_transport_cost,total_export_costs
+0,Africa,South Africa,Durban,2300,18400,1.61,16100.000000000002,34500.0
+1,Africa,Kenya,Mombasa,2800,22400,13.5,135000.0,157400.0
+2,Africa,Nigeria,Lagos,4240,33920,2.5,25000.0,58920.0
+3,Asia,Singapore,Singapore,180,1440,1.0,10000.0,11440.0
+4,Asia,Japan,Yokohama,180,1440,1.0,10000.0,11440.0
+5,Asia,China,Shanghai,180,1440,1.0,10000.0,11440.0
+6,Europe,Netherlands,Rotterdam,110,880,2.1,21000.0,21880.0
+7,Europe,Germany,Hamburg,200,1600,2.1,21000.0,22600.0
+8,Europe,Spain,Valencia,195,1560,2.1,21000.0,22560.0
+9,Latin America and the Caribbean,Brazil,Santos,544,4352,1.0,10000.0,14352.0
+10,Latin America and the Caribbean,Columbia,Cartagena,833,6664,1.0,10000.0,16664.0
+11,Latin America and the Caribbean,Costa Rica,Puerto Limon,1654,13232,1.0,10000.0,23232.0
+12,Oceania,Australia,Brisbane,4450,35600,1.8,18000.0,53600.0
+13,Oceania,Australia,Fremantle,4450,35600,1.8,18000.0,53600.0
+14,Oceania,New Zealand,Auckland,4450,35600,1.75,17500.0,53100.0

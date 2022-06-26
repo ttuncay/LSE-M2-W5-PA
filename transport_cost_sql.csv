@@ -1,0 +1,16 @@
+region,country,port,sea_freight_cost,total_sea_freight_costs,road_transport_cost_per_km,total_road_transport_cost,total_export_costs
+Africa                                            ,South Africa                                      ,Durban                                            ,2300,18400,1.61,16100,34500
+Africa                                            ,Kenya                                             ,Mombasa                                           ,2800,22400,13.50,135000,157400
+Africa                                            ,Nigeria                                           ,Lagos                                             ,4240,33920,2.50,25000,58920
+Europe                                            ,Spain                                             ,Valencia                                          ,195,1560,2.10,21000,22560
+Latin America and the Caribbean                   ,Brazil                                            ,Santos                                            ,544,4352,1.00,10000,14352
+Latin America and the Caribbean                   ,Columbia                                          ,Cartagena                                         ,833,6664,1.00,10000,16664
+Latin America and the Caribbean                   ,Costa Rica                                        ,Puerto Limon                                      ,1654,13232,1.00,10000,23232
+Oceania                                           ,Australia                                         ,Brisbane                                          ,4450,35600,1.80,18000,53600
+Oceania                                           ,Australia                                         ,Fremantle                                         ,4450,35600,1.80,18000,53600
+Oceania                                           ,New Zealand                                       ,Auckland                                          ,4450,35600,1.75,17500,53100
+Asia                                              ,Singapore                                         ,Singapore                                         ,180,1440,1.00,10000,11440
+Asia                                              ,Japan                                             ,Yokohama                                          ,180,1440,1.00,10000,11440
+Asia                                              ,China                                             ,Shanghai                                          ,180,1440,1.00,10000,11440
+Europe                                            ,Netherlands                                       ,Rotterdam                                         ,110,880,2.10,21000,21880
+Europe                                            ,Germany                                           ,Hamburg                                           ,200,1600,2.10,21000,22600

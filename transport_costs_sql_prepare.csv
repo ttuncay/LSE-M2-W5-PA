@@ -1,0 +1,16 @@
+﻿region,country,port,sea_freight_cost,road_transport_cost_per_km,currency,distance_unit
+Africa,South Africa,Durban,2300,1.61,US $,km
+Africa,Kenya,Mombasa,2800,13.5,US $,km
+Africa,Nigeria,Lagos,4240,2.5,US $,km
+Asia,Singapore,Singapore,180,1,US $,km
+Asia,Japan,Yokohama,180,1,US $,km
+Asia,China,Shanghai,180,1,US $,km
+Europe,Netherlands,Rotterdam,110,2.1,US $,km
+Europe,Germany,Hamburg,200,2.1,US $,km
+Europe,Spain,Valencia,195,2.1,US $,km
+Latin America and the Caribbean,Brazil,Santos,544,1,US $,km
+Latin America and the Caribbean,Columbia,Cartagena,833,1,US $,km
+Latin America and the Caribbean,Costa Rica,Puerto Limon,1654,1,US $,km
+Oceania,Australia,Brisbane,4450,1.8,US $,km
+Oceania,Australia,Fremantle,4450,1.8,US $,km
+Oceania,New Zealand,Auckland,4450,1.75,US $,km
